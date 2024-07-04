@@ -4,7 +4,7 @@ Node.js Application with MongoDB and Express
 
 full program will made on codespace github
 
-first connect with MongoDB database url :- mongodb+srv://Ajay_Parmar:<password>@cluster0.3qvdgey.mongodb.net/
+first connect with MongoDB database url :- mongodb+srv://chitigupta19:<password>@cluster0.k52hq4c.mongodb.net/
 
 then type npm run start
 
